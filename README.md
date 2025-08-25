@@ -90,7 +90,14 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 * [x] Validar entrada
 * [x] Visualizar la lista
 * [x] Sorteo aleatorio
+      
+📁 ***Acceso al proyecto:***  
+- Puedes acceder al [código fuente](https://github.com/LucasKronos10/Desafio-amigo-secreto.git) o ver la [demo en vivo](https://lucaskronos10.github.io/Desafio-amigo-secreto/).
 
+🛠️ ***Abrir y ejecutar el proyecto:***
+- ***Clona este repositorio:*** `git clone https://github.com/LucasKronos10/Desafio-amigo-secreto.git`
+- Abre el archivo `index.html` en tu navegador
+  
 <h3 style="color: Green; font-style: italic;">Autor</h3>
 
 <a href="https://github.com/LucasKronos10" title="Perfil">
